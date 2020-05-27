@@ -160,21 +160,21 @@
                                 </constraints>
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dDg-06-q2i" userLabel="search">
-                                <rect key="frame" x="229" y="15" width="82" height="40"/>
+                                <rect key="frame" x="187" y="15" width="110" height="40"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="40" id="Muq-3v-fRN"/>
                                 </constraints>
                                 <state key="normal" title="Button" image="search"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1Kj-jC-zVB" userLabel="cart">
-                                <rect key="frame" x="326" y="15" width="68" height="40"/>
+                                <rect key="frame" x="312" y="15" width="82" height="40"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="40" id="K9A-KX-ywf"/>
                                 </constraints>
                                 <state key="normal" title="Button" image="cart"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="f9S-6o-bX2" userLabel="back">
-                                <rect key="frame" x="20" y="15" width="62" height="40"/>
+                                <rect key="frame" x="20" y="15" width="70" height="40"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="40" id="WLB-gT-tMz"/>
                                 </constraints>
@@ -401,21 +401,21 @@
                                 </constraints>
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1S2-4G-xJd" userLabel="search">
-                                <rect key="frame" x="229" y="15" width="82" height="40"/>
+                                <rect key="frame" x="187" y="15" width="110" height="40"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="40" id="ne6-QC-kay"/>
                                 </constraints>
                                 <state key="normal" title="Button" image="search"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TNK-oV-MAS" userLabel="cart">
-                                <rect key="frame" x="326" y="15" width="68" height="40"/>
+                                <rect key="frame" x="312" y="15" width="82" height="40"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="40" id="7Cr-Cf-aDl"/>
                                 </constraints>
                                 <state key="normal" title="Button" image="cart"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jBn-h2-XGk" userLabel="back">
-                                <rect key="frame" x="20" y="15" width="62" height="40"/>
+                                <rect key="frame" x="20" y="15" width="70" height="40"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="40" id="ILD-Lw-XfF"/>
                                 </constraints>
