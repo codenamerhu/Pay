@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Pay-PayUITests/Pods-Pay-PayUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/CardScan/CardScan.framework
+${BUILT_PRODUCTS_DIR}/CreditCardValidator/CreditCardValidator.framework
+${BUILT_PRODUCTS_DIR}/DynamicBlurView/DynamicBlurView.framework
+${BUILT_PRODUCTS_DIR}/PopupDialog/PopupDialog.framework

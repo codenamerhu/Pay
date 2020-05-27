@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (5.1.0)
+  - CardScan (1.0.5031):
+    - CardScan/Core (= 1.0.5031)
+  - CardScan/Core (1.0.5031)
+  - CreditCardValidator (0.4)
+  - DynamicBlurView (4.1.0)
+  - PopupDialog (1.1.1):
+    - DynamicBlurView (~> 4.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - CardScan
+  - CreditCardValidator
+  - PopupDialog
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CardScan
+    - CreditCardValidator
+    - DynamicBlurView
+    - PopupDialog
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  CardScan: 638257c08b741b070bbb0324d2425750666b778f
+  CreditCardValidator: 9f0814dd61682c004071a250d89327ca83514a48
+  DynamicBlurView: 58e18fae80bb614e34681a4486870e7d257b62e8
+  PopupDialog: 720c92befd8bc23c13442254945213db5612f149
+
+PODFILE CHECKSUM: 2df4f2391e11265d15db14d20dbb59c24528949f
+
+COCOAPODS: 1.8.3
